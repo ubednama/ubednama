@@ -4,29 +4,34 @@
 - 💬 Ask me about **Python**, **C++**, **MERN**, & **SQL**.
 - 📫 Connect with me: `kubedrn@gmail.com`
 
+<a href="https://leetcode.com/ubednama/">
+  <img align="left" alt="Ubed's Leetcode" width="22px" src="https://raw.githubusercontent.com/ubednama/ubed/main/leetcode.png" />
+
 <a href="https://www.linkedin.com/in/ubed9">
   <img align="left" alt="Ubed's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://www.instagram.com/ubednama">
   <img align="left" alt="Ubed's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/gs664afjszbfev7wyf63xn9l8">
-  <img align="left" alt="Preetham's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" /> -->
 
-<!-- <a href="https://www.fiverr.com/preethamb">
-  <img align="left" alt="Preetham's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" /> -->
+
+<!-- <a href="https://open.spotify.com/user/">
+  <img align="left" alt="Ubed's Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" /> -->
+
+<!-- <a href="https://www.fiverr.com/">
+  <img align="left" alt="Ubed's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" /> -->
 
 <!-- <a href="https://www.hackerearth.com/@preethamb97">
   <img align="left" alt="Ubed's HackerEarth" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" />  -->
 
-<a href="https://leetcode.com/ubednama/">
-  <img align="left" alt="Ubed's Leetcode" width="22px" src="https://raw.githubusercontent.com/ubednama/ubed/main/leetcode.png" />
+
 
 <!-- 
-![](https://visitor-badge.glitch.me/badge?page_id=preethamb97.preethamb97) -->
+![](https://visitor-badge.glitch.me/badge) -->
 <br><br>
 **languages and tools:**  
 
+<!-- Unlinked text or bullet points -->
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
