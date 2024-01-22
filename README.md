@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python**, **C++**, **MERN**, & **SQL**.
 - 📫 Connect with me: `kubedrn@gmail.com`
-<br>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/__ubednama)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ubed9)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ubednama/)<br>
