@@ -21,10 +21,7 @@
 <!--  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <br><br> -->
-<p> &nbsp;</p>
-<p> &nbsp;</p>
-## **languages and tools:**
-## 
+## **languages and tools:**  
 
 <!-- Unlinked text or bullet points -->
 <code><img height = "45" alt = "HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin-right: 5px; margin-left:5px"></code>
@@ -56,7 +53,7 @@
 
 <!--[<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521604-2945048.png"></code>](https://www.nginx.com/) -->
 
-
+<p> &nbsp;</p>
 <p> &nbsp;</p>
 <p> &nbsp;</p>
 <h1>Projects</h1>
