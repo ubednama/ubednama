@@ -23,7 +23,8 @@
 <br><br> -->
 <p> &nbsp;</p>
 <p> &nbsp;</p>
-## languages and tools:
+## **languages and tools:**
+## 
 
 <!-- Unlinked text or bullet points -->
 <code><img height = "45" alt = "HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin-right: 5px; margin-left:5px"></code>
