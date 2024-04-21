@@ -36,17 +36,6 @@
 |<code><img height="45" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin: 0 5px"></code><code><img height="45" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="margin: 0 5px"></code> <code><img height="45" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin: 0 5px"></code><code><img height="45" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="margin: 0 5px"></code> | <code><img height="45" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin: 0 5px"></code> <code><img height="45" alt="express.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" style="margin: 0 5px"></code><code><img height="45" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="margin: 0 5px"></code><code><img height="45" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="margin: 0 5px"></code> |
 
 
-|<code><img height = "45" alt = "HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin-right: 5px; margin-left:5px"></code><code><img height = "45" alt = "CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="margin-right: 5px; margin-left:5px"></code> <code><img height="40" alt = "JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin-right: 5px; margin-left:5px"></code><code><img height="35" alt = "React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="margin-right: 5px; margin-left:5px"></code> | <code><img height="35" alt = "NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-right: 5px; margin-left:5px"></code> <code><img height="35" alt = "express.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" style="margin-right: 5px; margin-left:5px"></code><code><img height="30" alt = "Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="margin-right: 5px; margin-left:5px"></code><code><img height="30" alt = "aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="margin-right: 5px; margin-left:5px"></code> |
-
-
-
-
-
-
-
-
-
-
 <h3>Databases</h3>
 <code><img height="35" alt = "MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="margin-right: 5px; margin-left:5px"></code>
 <!-- <code><img height = "35" alt = "MS SQL Server" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" style="margin-right: 5px; margin-left:5px"></code> -->
