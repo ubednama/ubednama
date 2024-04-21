@@ -27,7 +27,7 @@
 <h2>Frontend</h2>
 <code><img height = "45" alt = "HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin-right: 5px; margin-left:5px"></code>
 <code><img height = "45" alt = "CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="margin-right: 5px; margin-left:5px"></code>
-<code><img height="40" alt = "JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin-right: 5px; margin-left:5px"></code><br>
+<code><img height="40" alt = "JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin-right: 5px; margin-left:5px"></code>
 <code><img height="35" alt = "React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="margin-right: 5px; margin-left:5px"></code>
 
 <h2>Programming Languages</h2>
