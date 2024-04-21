@@ -55,7 +55,8 @@
 
 <p> &nbsp;</p>
 <p> &nbsp;</p>
-[Portfolio](https://ubednama.netlify.app)
+
+<h2>-<a href='https://ubednama.netlify.app'>Portfolio</a></h2><br>
 <h1>Projects</h1>
 <!-- <h2>-<a href=''>Portfolio</a></h3><br> -->
 <h2>-<a href='https://github.com/ubednama/tictactoe-js'>Tic Tac Toe</a></h2><br>
