@@ -55,7 +55,7 @@
 
 <p> &nbsp;</p>
 <p> &nbsp;</p>
-<h2>[Portfolio](Ubedurrehman_Khan_8657567454)</h2>
+[<h2>Portfolio</h2>](Ubedurrehman_Khan_8657567454)
 <h1>Projects</h1>
 <!-- <h2>-<a href=''>Portfolio</a></h3><br> -->
 <h2>-<a href='https://github.com/ubednama/tictactoe-js'>Tic Tac Toe</a></h2><br>
