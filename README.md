@@ -28,7 +28,7 @@
 <code><img height="45" alt = "C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="margin-right: 5px; margin-left:5px"></code>
 <code><img height="47" alt = "Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin-right: 5px; margin-left:5px"></code>
 <code><img height="35" alt = "php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="margin-right: 5px; margin-left:5px"></code>
-<br>
+</br>
 </br>
 
 | <h2>Frontend</h2> | <h2>Backend Technologies</h2> |
