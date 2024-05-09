@@ -1,4 +1,4 @@
-# <div style="display: flex; justify-content: space-between;">   <div>     <img src="https://visitor-badge.laobi.icu/badge?page_id=ubednama.ubednama&" />   </div>   <div>     <p style="text-align: center;"> Hi <img src="https://github.com/ubednama/ubednama/blob/main/gifs/Hi.gif" width="30px">, I'm <a href="https://www.linkedin.com/in/ubed9">Ubed</a>.</p>   </div> </div>
+# <div style="display: flex; justify-content: space-between;"> <div>     <p style="text-align: center;"> Hi <img src="https://github.com/ubednama/ubednama/blob/main/gifs/Hi.gif" width="30px">, I'm <a href="https://www.linkedin.com/in/ubed9">Ubed</a>.</p>   </div> <div> <img src="https://visitor-badge.laobi.icu/badge?page_id=ubednama.ubednama&" />   </div> </div>
 
 
 - 💬 Ask me about **Python**, **C++**, **MERN**, & **SQL**.
