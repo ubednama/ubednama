@@ -112,12 +112,12 @@
 <p> &nbsp;</p>
 <p> &nbsp;</p>
 
-<h3>🗃️ Projects</h3>
+<h2>🗃️ Projects</h3>
 <div align="left">
-  <div>-<a href='https://github.com/ubednama/mini-projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a></div>
-  <div>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></div>
-  <div>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></div>
-  <div>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></div>
+  <h3>-<a href='https://github.com/ubednama/mini-projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a></h3>
+  <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
+  <h3>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h3>
+  <h3>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></h3>
 </div>
 
 
