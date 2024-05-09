@@ -16,7 +16,7 @@
 
 [![Leetcode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fubednama&logo=leetcode&logoColor=yellow)](https://leetcode.com/ubednama)
 
-<h3> <a href='https://ubednama.netlify.app'>Portfolio</a> </h3>
+<h3> <a href='https://ubednama.netlify.app'>📂 Portfolio</a> </h3>
 
 <!-- <a href="https://www.fiverr.com/">
   <img align="left" alt="Ubed's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" /> -->
@@ -112,10 +112,10 @@
 <p> &nbsp;</p>
 <p> &nbsp;</p>
 
-<h1>Projects</h1>
-<h2>-<a href='https://github.com/ubednama/mini-projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a></h2>
-<h2>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h2>
-<h2>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h2>
-<h2>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></h2><br>
+<h3>🗃️ Projects</h3>
+-<a href='https://github.com/ubednama/mini-projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a>
+-<a href='https://github.com/ubednama/ChatApp'>Chat App</a>
+-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a>
+-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a><br>
 
 
