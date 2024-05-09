@@ -114,10 +114,10 @@
 
 <h3>🗃️ Projects</h3>
 <div align="left">
--<a href='https://github.com/ubednama/mini-projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a>
--<a href='https://github.com/ubednama/ChatApp'>Chat App</a>
--<a href='https://github.com/ubednama/TextUtils'>Text Utils</a>
--<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a>
+  <div>-<a href='https://github.com/ubednama/mini-projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a></div>
+  <div>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></div>
+  <div>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></div>
+  <div>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></div>
 </div>
 
 
