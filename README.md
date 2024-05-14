@@ -29,6 +29,8 @@
 
 ### <h3> <a href='https://github.com/ubednama/resume'>📄 Resume</a> </h3>
 
+<p> &nbsp;</p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
