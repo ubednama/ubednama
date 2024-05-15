@@ -120,7 +120,7 @@
 <h2>🗃️ Projects</h3>
 <div align="left">
   <h3>-<a href='https://github.com/ubednama/mini-projects-js'>Tic Tac Toe</a></h3>
-  <div> <a>Tic Tac Toe</a> <a>rock-paper-scissors</a> <a>currency-converter</a> <a>Caculator</a> <a>Quick Sign</a></div>
+  <div> <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/rockpaperscissors'>rock-paper-scissors</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/currency-convertor'>Currency converter</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Calculator'>Caculator</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a></div>
   <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
   <h3>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h3>
   <h3>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></h3>
