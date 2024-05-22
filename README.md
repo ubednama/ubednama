@@ -120,7 +120,7 @@
 <h2>🗃️ Projects</h3>
 <div align="left">
   <h3>-<a href='https://github.com/ubednama/mini-projects-js'>Mini Projects (HTML/CSS/JavaScript)</a></h3>
-  <div> <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/tic-tac-toe'>Tic Tac Toe</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/rockpaperscissors'>rock-paper-scissors</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/currency-converter'>Currency converter</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Calculator'>Caculator</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..</div>
+  <div> <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>rock-paper-scissors</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency converter</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Caculator</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..</div>
   <h3>-<a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a></h3>
   <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
   <h3>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h3>
