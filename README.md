@@ -70,7 +70,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
