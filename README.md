@@ -120,6 +120,7 @@
 <h2>🗃️ Projects</h3>
 <div align="left">
   <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
+  <h3>-<a href='https://github.com/ubednama/Flights-Service'>Flight Management System</a></h3>
   <h3>-<a href='https://github.com/ubednama/YAMovieDB'>YAMovieDB</a></h3>
   <h3>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h3>
   <h3>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></h3>
