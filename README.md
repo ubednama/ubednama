@@ -2,7 +2,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ubednama.ubednama&" />
 
 
-- 💬 Ask me about **Python**, **C++**, **MERN**, & **SQL**.
+- 💬 Ask me about **Java**, **MERN**, & **SQL**.
 - 📫 Connect with me: `kubedrn@gmail.com`
 
 <div align="left">
