@@ -143,6 +143,18 @@
   <h3>-<a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a></h3>
 </div>
 
+<style>
+  table, th, td {
+    border: none !important;
+    background-color: transparent !important;
+ vertical-align: middle !important;
+  }
+
+  td {
+    height: 50px; /* Adjust height as needed */
+  }
+</style>
+
 <table>
   <tr>
     <td><h3>Chat App</h3></td>
@@ -191,6 +203,7 @@
     <td><a href='https://github.com/ubednama/Landing-Pages'>Link</a></td>
   </tr>
 </table>
+
 
 
 
