@@ -122,6 +122,14 @@
 <p> &nbsp;</p>
 
 <h2>🗃️ Projects</h3>
+<h2>Java + SpringBoot + React</h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
 <div align="left">
   <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
   <h3>-<a href='https://github.com/ubednama/Flights-Service'>Flight Management System</a></h3>
@@ -134,5 +142,44 @@
   <div> <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>rock-paper-scissors</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency converter</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Caculator</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..</div>
   <h3>-<a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a></h3>
 </div>
+
+<table>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/Flights-Service'>Flight Management System</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/YAMovieDB'>YAMovieDB</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/URL-Shortener'>URL-Shortener</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/Refokus-Clone'>Refokus-Clone</a></h3></td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/mini-projects-js'>Mini Projects (HTML/CSS/JavaScript)</a></h3></td>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a> |
+      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>rock-paper-scissors</a> |
+      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency converter</a> |
+      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Calculator</a> |
+      <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..
+    </td>
+  </tr>
+  <tr>
+    <td><h3>-<a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a></h3></td>
+  </tr>
+</table>
 
 
