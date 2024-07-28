@@ -123,13 +123,6 @@
 
 <h2>🗃️ Projects</h3>
 <h2>Java + SpringBoot + React</h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
 <div align="left">
   <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
   <h3>-<a href='https://github.com/ubednama/Flights-Service'>Flight Management System</a></h3>
@@ -142,68 +135,3 @@
   <div> <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>rock-paper-scissors</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency converter</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Caculator</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..</div>
   <h3>-<a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a></h3>
 </div>
-
-<style>
-  table, th, td {
-    border: none !important;
-    background-color: transparent !important;
- vertical-align: middle !important;
-  }
-
-  td {
-    height: 50px; /* Adjust height as needed */
-  }
-</style>
-
-<table>
-  <tr>
-    <td><h3>Chat App</h3></td>
-    <td><a href='https://github.com/ubednama/ChatApp'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>Flight Management System</h3></td>
-    <td><a href='https://github.com/ubednama/Flights-Service'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>YAMovieDB</h3></td>
-    <td><a href='https://github.com/ubednama/YAMovieDB'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>Text Utils</h3></td>
-    <td><a href='https://github.com/ubednama/TextUtils'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>YANewsApp</h3></td>
-    <td><a href='https://github.com/ubednama/YANewsApp'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>URL-Shortener</h3></td>
-    <td><a href='https://github.com/ubednama/URL-Shortener'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>Refokus-Clone</h3></td>
-    <td><a href='https://github.com/ubednama/Refokus-Clone'>Link</a></td>
-  </tr>
-  <tr>
-    <td><h3>Mini Projects (HTML/CSS/JavaScript)</h3></td>
-    <td><a href='https://github.com/ubednama/mini-projects-js'>Link</a></td>
-  </tr>
-  <tr>
-    <td>
-      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a> |
-      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>rock-paper-scissors</a> |
-      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency converter</a> |
-      <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Calculator</a> |
-      <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><h3>Landing Pages (HTML/CSS)</h3></td>
-    <td><a href='https://github.com/ubednama/Landing-Pages'>Link</a></td>
-  </tr>
-</table>
-
-
-
-
