@@ -25,7 +25,8 @@
 
 <p> &nbsp;</p>
 
-<h3><a href='https://ubednama.netlify.app'>📂 Portfolio</a></h3> [![Netlify Status](https://api.netlify.com/api/v1/badges/3fae0c10-f62a-4191-aac9-8fe3ad109d52/deploy-status)](https://app.netlify.com/sites/ubednama/deploys)
+<h3><a href='https://ubednama.netlify.app'>📂 Portfolio</a></h3>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fae0c10-f62a-4191-aac9-8fe3ad109d52/deploy-status)](https://app.netlify.com/sites/ubednama/deploys)
 
 ### <h3> <a href='https://github.com/ubednama/resume'>📄 Resume</a> </h3>
 
