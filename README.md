@@ -127,7 +127,6 @@
 - [Project Management System](https://github.com/ubednama/Project-Management-System-Frontend) ✨ ⌛
 
 </details>
-
 <details open>
   <summary>
     <h3 style="display: inline;">Java</h3>
@@ -141,7 +140,6 @@
   - [Snake & Ladder](https://github.com/ubednama/Snake-Ladder)
 
 </details>
-
 <details open>
   <summary>
     <h3 style="display: inline;">MERN Stack</h3>
@@ -152,7 +150,6 @@
   - [YANotes App](https://github.com/ubednama/YANotesApp)
 
 </details>
-
 <details close>
   <summary>
     <h3 style="display: inline;">Next.js</h3>
@@ -161,7 +158,6 @@
   - [Twitter](https://github.com/ubednama/Twitter-Frontend) ⌛
 
 </details>
-
 <details open>
   <summary>
     <h3 style="display: inline;">React.js</h3>
@@ -177,7 +173,6 @@
   - [React Components](https://github.com/ubednama/React-Components)
 
 </details>
-
 <details close>
   <summary>
     <h3 style="display: inline;">Node.js</h3>
@@ -195,7 +190,6 @@
   - [Russian Roulette Sys32 Killer](https://github.com/ubednama/Russian-Roulette-Sys32-Killer)
 
 </details>
-
 <details close>
   <summary>
     <h3 style="display: inline;">
@@ -219,7 +213,6 @@
   - [Random Breaking Bad Quotes](https://github.com/ubednama/Mini-Projects-js/tree/main/BBQuotes-API) [🔗](https://mini-projects-js-five.vercel.app/BBQuotes-API/index.html)
 
 </details>
-
 <details close>
   <summary>
     <h3 style="display: inline;">
@@ -238,7 +231,6 @@
   - [Shop Jacket](https://github.com/ubednama/Landing-Pages/tree/main/shop-jacket) [🔗](https://landing-pages-coral.vercel.app/shop-jacket/index.html)
 
 </details>
-
 <details close>
   <summary>
     <h3 style="display: inline;">JavaScript</h3>
@@ -247,7 +239,6 @@
   - [gRPC Server](https://github.com/ubednama/GRPC_Server)
 
 </details>
-
 <details close>
   <summary>
     <h3 style="display: inline;">Others</h3>
