@@ -130,7 +130,6 @@
 </ul>
 
 </details>
-&nbsp;
 
 <details open>
 <summary>
@@ -143,7 +142,6 @@
 </ul>
 
 </details>
-&nbsp;
 
 <details close>
 <summary>
@@ -158,8 +156,6 @@
 </ul>
 
 </details>
-&nbsp;
-
 <details close>
 <summary>
   <h3 style="display: inline;">Node.js</h3>
