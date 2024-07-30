@@ -170,7 +170,6 @@
 </ul>
 
 </details>
-&nbsp;
 
 <details close>
 <summary>
@@ -188,7 +187,6 @@
 </ul>
 
 </details>
-&nbsp;
 
 <details open>
 <summary>
