@@ -25,7 +25,10 @@
 
 <p> &nbsp;</p>
 
-### <h3> <a href='https://ubednama.netlify.app'>📂 Portfolio</a> </h3> [![Netlify Status](https://api.netlify.com/api/v1/badges/3fae0c10-f62a-4191-aac9-8fe3ad109d52/deploy-status)](https://app.netlify.com/sites/ubednama/deploys)
+<div align="left" style="display: flex; align-items: center;">
+<a href='https://ubednama.netlify.app' style="margin-right: 10px;"><h3>📂 Portfolio </h3></a>
+<a href="https://app.netlify.com/sites/ubednama/deploys"><img src="https://api.netlify.com/api/v1/badges/3fae0c10-f62a-4191-aac9-8fe3ad109d52/deploy-status" alt="Netlify Status"></a>
+</div>
 
 ### <h3> <a href='https://github.com/ubednama/resume'>📄 Resume</a> </h3>
 
@@ -105,33 +108,95 @@
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ubednama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubednama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="180" alt="languages graph"  /> <br/>
-  <img src="https://streak-stats.demolab.com?user=ubednama&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ubednama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubednama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&theme=dark&bg_color=000000&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ubednama&locale=en&mode=daily&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ubednama/ubednama/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ubednama/ubednama/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
 
 <p> &nbsp;</p>
 <p> &nbsp;</p>
 
 <h2>🗃️ Projects</h3>
-<h2>Java + SpringBoot + React</h2>
-<div align="left">
-  <h3>-<a href='https://github.com/ubednama/ChatApp'>Chat App</a></h3>
-  <h3>-<a href='https://github.com/ubednama/Flights-Service'>Flight Management System</a></h3>
-  <h3>-<a href='https://github.com/ubednama/YAMovieDB'>YAMovieDB</a></h3>
-  <h3>-<a href='https://github.com/ubednama/TextUtils'>Text Utils</a></h3>
-  <h3>-<a href='https://github.com/ubednama/YANewsApp'>YANewsApp</a></h3>
-  <h3>-<a href='https://github.com/ubednama/URL-Shortener'>URL-Shortener</a></h3>
-  <h3>-<a href='https://github.com/ubednama/Refokus-Clone'>Refokus-Clone</a></h3>
-  <h3>-<a href='https://github.com/ubednama/mini-projects-js'>Mini Projects (HTML/CSS/JavaScript)</a></h3>
-  <div> <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>rock-paper-scissors</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency converter</a> | <a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Caculator</a> | <a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a> & more..</div>
-  <h3>-<a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a></h3>
-</div>
+<details open>
+<summary>
+  <h3 style="display: inline;">Java + SpringBoot + React</h3>
+</summary>
+
+<ul style="margin-left: 20px;">
+  <li><a href="https://github.com/ubednama/Project-Management-System-Frontend">Project Management System</a></li>
+</ul>
+
+</details>
+&nbsp;
+
+<details open>
+<summary>
+  <h3 style="display: inline;">MERN Stack</h3>
+</summary>
+
+<ul style="margin-left: 20px;">
+  <li><a href="https://github.com/ubednama/ChatApp">Chat App</a></li>
+  <li><a href="https://github.com/ubednama/Flights-Service">Flight Management System</a></li>
+</ul>
+
+</details>
+&nbsp;
+
+<details close>
+<summary>
+  <h3 style="display: inline;">React.js</h3>
+</summary>
+
+<ul style="margin-left: 20px;">
+  <li><a href="https://github.com/ubednama/Refokus-Clone">Refokus-Clone</a></li>
+  <li><a href="https://github.com/ubednama/YAMovieDB">YAMovieDB</a></li>
+  <li><a href="https://github.com/ubednama/TextUtils">Text Utils</a></li>
+  <li><a href="https://github.com/ubednama/YANewsApp">YANewsApp</a></li>
+</ul>
+
+</details>
+&nbsp;
+
+<details close>
+<summary>
+  <h3 style="display: inline;">Node.js</h3>
+</summary>
+
+<ul style="margin-left: 20px;">
+  <li><a href="https://github.com/ubednama/URL-Shortener">URL-Shortener</a></li>
+</ul>
+
+</details>
+&nbsp;
+
+<details close>
+<summary>
+  <h3 style="display: inline;">
+    <a href='https://github.com/ubednama/mini-projects-js'>Mini Projects (HTML/CSS/JavaScript)</a>
+  </h3>
+</summary>
+
+<ul style="margin-left: 20px;">
+  <li><a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/tic-tac-toe/index.html'>Tic Tac Toe</a></li>
+  <li><a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/rockpaperscissors/index.html'>Rock-paper-scissors</a></li>
+  <li><a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/currency-converter/index.html'>Currency Converter</a></li>
+  <li><a href='https://mini-projects-js-git-main-ubednamas-projects.vercel.app/Calculator/index.html'>Calculator</a></li>
+  <li><a href='https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign'>Quick Sign</a></li>
+</ul>
+
+</details>
+&nbsp;
+
+<details open>
+<summary>
+  <h3 style="display: inline;">
+    <a href='https://github.com/ubednama/Landing-Pages'>Landing Pages (HTML/CSS)</a>
+  </h3>
+</summary>
+
+<!-- Add any additional content or links here if needed -->
+
+</details>
