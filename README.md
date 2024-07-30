@@ -171,7 +171,7 @@
   </summary>
   <ul style="margin-left: 20px;">
     <li>
-      <span><a href="https://chat-app-uwfk.onrender.com/">🔗</a></span> 
+      <span style="text-decoration: none;"><a href="https://chat-app-uwfk.onrender.com/">🔗</a></span> 
       <a href="https://github.com/ubednama/ChatApp">Chat App</a>
     </li>
     <li>
