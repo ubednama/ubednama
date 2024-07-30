@@ -118,13 +118,14 @@
 <p> &nbsp;</p>
 
 ## <a id="projects"></a>🗃️ Projects
+(🔗- live links, 🌟- Highlight Projects, ⌛- in progress)
 
 <details open>
   <summary>
     <h3 style="display: inline;">Java + SpringBoot + React</h3>
   </summary>
 
-- [Project Management System](https://github.com/ubednama/Project-Management-System-Frontend) ✨ ⌛
+- [Project Management System](https://github.com/ubednama/Project-Management-System-Frontend) 🌟 ⌛
 
 </details>
 <details open>
@@ -132,7 +133,7 @@
     <h3 style="display: inline;">Java</h3>
   </summary>
 
-  - [Expense Tracker Service](https://github.com/ubednama/Expense-Tracker-Service) ✨ ⌛
+  - [Expense Tracker Service](https://github.com/ubednama/Expense-Tracker-Service) 🌟 ⌛
   - [Book Record Management System](https://github.com/ubednama/Book-Record-Management-System)
   - [Hospital Management System](https://github.com/ubednama/Hospital-Management-System)
   - [Ticket Management System](https://github.com/ubednama/Ticket-Management-System) ⌛
@@ -145,7 +146,7 @@
     <h3 style="display: inline;">MERN Stack</h3>
   </summary>
 
-  - [Chat App](https://github.com/ubednama/ChatApp) [🔗](https://chat-app-uwfk.onrender.com/) ✨
+  - [Chat App](https://github.com/ubednama/ChatApp) [🔗](https://chat-app-uwfk.onrender.com/) 🌟
   - [YAPassword Manager](https://github.com/ubednama/YAPasswordManager)
   - [YANotes App](https://github.com/ubednama/YANotesApp)
 
@@ -163,10 +164,10 @@
     <h3 style="display: inline;">React.js</h3>
   </summary>
 
-  - [Refokus-Clone](https://github.com/ubednama/Refokus-Clone) [🔗](https://refokus-clone-link) ✨
-  - [Netflix Clone](https://github.com/ubednama/Netflix-clone) ✨
-  - [YAMovieDB](https://github.com/ubednama/YAMovieDB) [🔗](https://yamoviedb-link) ✨
-  - [Maa Foundation Project](https://github.com/ubednama/maa-foundation-project) [🔗](https://maa-foundation.vercel.app/) ✨
+  - [Refokus-Clone](https://github.com/ubednama/Refokus-Clone) [🔗](https://refokus-clone-link) 🌟
+  - [Netflix Clone](https://github.com/ubednama/Netflix-clone) 🌟
+  - [YAMovieDB](https://github.com/ubednama/YAMovieDB) [🔗](https://yamoviedb-link)🌟
+  - [Maa Foundation Project](https://github.com/ubednama/maa-foundation-project) [🔗](https://maa-foundation.vercel.app/)🌟
   - [Text Utils](https://github.com/ubednama/TextUtils) [🔗](https://text-utils-link)
   - [YANewsApp](https://github.com/ubednama/YANewsApp)
   - [To Do](https://github.com/ubednama/To-Do)
@@ -178,7 +179,7 @@
     <h3 style="display: inline;">Node.js</h3>
   </summary>
 
-  - [Flight Management System](https://github.com/ubednama/Flights-Service) ✨
+  - [Flight Management System](https://github.com/ubednama/Flights-Service)🌟
   - [URL-Shortener](https://github.com/ubednama/URL-Shortener)
   - [Check API](https://github.com/ubednama/Check-API)
 
@@ -202,7 +203,7 @@
   - [Tic Tac Toe](https://github.com/ubednama/Mini-Projects-js/tree/main/tic-tac-toe) [🔗](https://mini-projects-js-five.vercel.app/tic-tac-toe/index.html)
   - [Rock-paper-scissors](https://github.com/ubednama/Mini-Projects-js/tree/main/rockpaperscissors) [🔗](https://mini-projects-js-five.vercel.app/rockpaperscissors/index.html)
   - [Currency Converter](https://github.com/ubednama/Mini-Projects-js/tree/main/currency-converter) [🔗](https://mini-projects-js-five.vercel.app/currency-converter/index.html)
-  - [Calculator](https://github.com/ubednama/Mini-Projects-js/tree/main/Calculator) [🔗](https://mini-projects-js-five.vercel.app/Calculator/index.html)
+  - [Calculator](https://github.com/ubednama/Mini-Projects-js/tree/main/Calculator) [🔗](https://mini-projects-js-five.vercel.app/Calculator/index.html)🌟
   - [Quick Sign](https://github.com/ubednama/Mini-Projects-js/tree/main/Quick%20Sign) [🔗](https://mini-projects-js-five.vercel.app/Quick%20Sign/index.html)
   - [Weather App](https://github.com/ubednama/Mini-Projects-js/tree/main/Weather-App) [🔗](https://mini-projects-js-five.vercel.app/Weather-App/index.html)
   - [Dictionary App](https://github.com/ubednama/Mini-Projects-js/tree/main/Dictionary-App) [🔗](https://mini-projects-js-five.vercel.app/Dictionary-App/index.html)
@@ -222,7 +223,7 @@
     </h3>
   </summary>
 
-  - [Obys](https://github.com/ubednama/Landing-Pages/tree/main/Obys) [🔗](https://landing-pages-coral.vercel.app/Obys/index.html) ✨
+  - [Obys](https://github.com/ubednama/Landing-Pages/tree/main/Obys) [🔗](https://landing-pages-coral.vercel.app/Obys/index.html)🌟
   - [Dribble](https://github.com/ubednama/Landing-Pages/tree/main/dribble) [🔗](https://landing-pages-coral.vercel.app/dribble/index.html)
   - [Model Management](https://github.com/ubednama/Landing-Pages/tree/main/model-management) [🔗](https://landing-pages-coral.vercel.app/model-management/index.html)
   - [Mens Fashion](https://github.com/ubednama/Landing-Pages/tree/main/Mens-Fashion) [🔗](https://landing-pages-coral.vercel.app/Mens-Fashion/index.html)
