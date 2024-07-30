@@ -123,14 +123,16 @@
 
 <details open>
   <summary>
-    <h3 style="display: inline;">Java + SpringBoot + React</h3>
+    Java + SpringBoot + React + Next.js
+    <!-- <h3 style="display: inline;">Java + SpringBoot + React</h3> -->
   </summary>
-  <ul style="margin-left: 20px; list-style-type: none; padding-left: 10px;">
-    <li>
+  - [Project Management System](https://github.com/ubednama/Project-Management-System-Frontend)
+  <!-- <ul style="margin-left: 20px; list-style-type: none; padding-left: 10px;"> -->
+    <!-- <li> -->
       <!-- <span><a href="https://github.com/ubednama/Project-Management-System-Frontend">🔗</a></span>  -->
-      <a href="https://github.com/ubednama/Project-Management-System-Frontend">Project Management System</a>
-    </li>
-  </ul>
+      <!-- <a href="https://github.com/ubednama/Project-Management-System-Frontend">Project Management System</a> -->
+    <!-- </li> -->
+  <!-- </ul> -->
 </details>
 
 <details open>
@@ -171,7 +173,7 @@
   </summary>
   <ul style="margin-left: 20px;">
     <li>
-      <span style="text-decoration: none;"><a href="https://chat-app-uwfk.onrender.com/">🔗</a></span> 
+      <span><a href="https://chat-app-uwfk.onrender.com/">🔗</a></span> 
       <a href="https://github.com/ubednama/ChatApp">Chat App</a>
     </li>
     <li>
