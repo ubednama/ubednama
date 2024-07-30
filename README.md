@@ -75,7 +75,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS"  />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="40" alt="AWS"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -91,7 +91,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
 </div>
