@@ -117,7 +117,7 @@
 <p> &nbsp;</p>
 <p> &nbsp;</p>
 
-## 🗃️ Projects
+## <a id="projects"></a>🗃️ Projects
 
 <details open>
   <summary>
@@ -200,7 +200,7 @@
   <summary>
     <h3 style="display: inline;">
       Mini Projects (HTML/CSS/JavaScript)
-      <span><a href='https://github.com/ubednama/mini-projects-js'><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="18" alt="github logo" style="margin-left:2px" /></a></span>
+      <span><a href='https://github.com/ubednama/mini-projects-js'><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="20" alt="github logo" style="margin-left:2px; border-radius: 50%; vertical-align: middle;" /></a></span>
       <span><a href='https://mini-projects-js-five.vercel.app/'>🔗</a></span>
       </h3>
   </summary>
