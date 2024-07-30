@@ -153,7 +153,7 @@
 
 </details>
 
-<details open>
+<details close>
   <summary>
     <h3 style="display: inline;">Next.js</h3>
   </summary>
@@ -162,7 +162,7 @@
 
 </details>
 
-<details close>
+<details open>
   <summary>
     <h3 style="display: inline;">React.js</h3>
   </summary>
