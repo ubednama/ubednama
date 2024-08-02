@@ -163,12 +163,13 @@
   <summary>
     <h3 style="display: inline;">React.js</h3>
   </summary>
-
-  - [Refokus-Clone](https://github.com/ubednama/Refokus-Clone) [🔗](https://refokus-clone-link) 🌟
+  
+  - [Brainwave-Frontend-Clone](https://github.com/ubednama/Brainwave-Frontend-Clone) [🔗](https://brainwave-frontend-clone.vercel.app/) 🌟
+  - [Refokus-Clone](https://github.com/ubednama/Refokus-Clone) [🔗](https://refokus-clone-chi.vercel.app/) 🌟
   - [Netflix Clone](https://github.com/ubednama/Netflix-clone) 🌟
-  - [YAMovieDB](https://github.com/ubednama/YAMovieDB) [🔗](https://yamoviedb-link)🌟
+  - [YAMovieDB](https://github.com/ubednama/YAMovieDB) [🔗](https://ya-movie-db.vercel.app/)🌟
   - [Maa Foundation Project](https://github.com/ubednama/maa-foundation-project) [🔗](https://maa-foundation.vercel.app/)🌟
-  - [Text Utils](https://github.com/ubednama/TextUtils) [🔗](https://text-utils-link)
+  - [Text Utils](https://github.com/ubednama/TextUtils) [🔗](https://ubednama.github.io/TextUtils/)
   - [YANewsApp](https://github.com/ubednama/YANewsApp)
   - [To Do](https://github.com/ubednama/To-Do)
   - [React Components](https://github.com/ubednama/React-Components)
