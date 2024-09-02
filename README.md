@@ -28,7 +28,7 @@
 <h3><a href='https://ubednama.netlify.app/'>📂 Portfolio </h3>
 
 
-### <h3> <a href='https://github.com/ubednama/resume'>📄 Resume</a> </h3>
+### <h3> <a href='https://ubednama.github.io/resume/resume.pdf'>📄 Resume</a> </h3>
 
 <p> &nbsp;</p>
 
