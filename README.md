@@ -164,7 +164,7 @@
     <h3 style="display: inline;">React.js</h3>
   </summary>
   
-  - [Brainwave-Frontend-Clone](https://github.com/ubednama/Brainwave-Frontend-Clone) [🔗](https://brainwave-frontend-clone.vercel.app/) 🌟
+  - [Minimal Portfolio](https://github.com/ubednama/Minimal-Portfolio) 🌟
   - [Refokus-Clone](https://github.com/ubednama/Refokus-Clone) [🔗](https://refokus-clone-chi.vercel.app/) 🌟
   - [Netflix Clone](https://github.com/ubednama/Netflix-clone) 🌟
   - [YAMovieDB](https://github.com/ubednama/YAMovieDB) [🔗](https://ya-movie-db.vercel.app/)🌟
