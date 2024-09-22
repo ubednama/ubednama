@@ -106,7 +106,7 @@
 ###
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ubednama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ubednama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubednama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=true&theme=dark&bg_color=000000&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ubednama&locale=en&mode=daily&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/ubednama/ubednama/output/snake.svg" alt="Snake animation" />
@@ -234,9 +234,10 @@
 </details>
 <details close>
   <summary>
-    <h3 style="display: inline;">Others</h3>
+    <h3 style="display: inline;">EJS</h3>
   </summary>
 
+  - [Simple CRUD App](https://github.com/ubednama/Simple-CRUD-App)
   - [Pinterest Clone](https://github.com/ubednama/Pinterest-clone)
   
 </details>
