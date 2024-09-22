@@ -136,7 +136,6 @@
   - [Expense Tracker Service](https://github.com/ubednama/Expense-Tracker-Service) 🌟 ⌛
   - [Book Record Management System](https://github.com/ubednama/Book-Record-Management-System)
   - [Hospital Management System](https://github.com/ubednama/Hospital-Management-System)
-  - [Ticket Management System](https://github.com/ubednama/Ticket-Management-System) ⌛
   - [Unit Converter](https://github.com/ubednama/Unit-Converter)
   - [Snake & Ladder](https://github.com/ubednama/Snake-Ladder)
 
@@ -149,14 +148,6 @@
   - [Chat App](https://github.com/ubednama/ChatApp) [🔗](https://chat-app-uwfk.onrender.com/) 🌟
   - [YAPassword Manager](https://github.com/ubednama/YAPasswordManager)
   - [YANotes App](https://github.com/ubednama/YANotesApp)
-
-</details>
-<details close>
-  <summary>
-    <h3 style="display: inline;">Next.js</h3>
-  </summary>
-
-  - [Twitter](https://github.com/ubednama/Twitter-Frontend) ⌛
 
 </details>
 <details open>
