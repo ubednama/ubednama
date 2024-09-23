@@ -125,7 +125,7 @@
     <h3 style="display: inline;">Java + SpringBoot + React</h3>
   </summary>
 
-- [Project Management System](https://github.com/ubednama/Project-Management-System-Frontend)[🔗](https://project-management-system-frontend-rho.vercel.app) 🌟 ⌛
+- [Project Management System](https://github.com/ubednama/Project-Management-System-Frontend) [🔗](https://project-management-system-frontend-rho.vercel.app) 🌟 ⌛
 
 </details>
 <details open>
