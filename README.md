@@ -144,6 +144,7 @@
   <summary>
     <h3 style="display: inline;">MERN Stack</h3>
   </summary>
+  
   - [Chat App](https://github.com/ubednama/ChatApp) [🔗](https://chat-app-uwfk.onrender.com/) 🌟
 
 </details>
