@@ -132,7 +132,6 @@
   <summary>
     <h3 style="display: inline;">Java</h3>
   </summary>
-
   - [Expense Tracker Service](https://github.com/ubednama/Expense-Tracker-Service) 🌟 ⌛
   - [Book Record Management System](https://github.com/ubednama/Book-Record-Management-System)
   - [Hospital Management System](https://github.com/ubednama/Hospital-Management-System)
@@ -144,17 +143,13 @@
   <summary>
     <h3 style="display: inline;">MERN Stack</h3>
   </summary>
-
   - [Chat App](https://github.com/ubednama/ChatApp) [🔗](https://chat-app-uwfk.onrender.com/) 🌟
-  - [YAPassword Manager](https://github.com/ubednama/YAPasswordManager)
-  - [YANotes App](https://github.com/ubednama/YANotesApp)
 
 </details>
 <details open>
   <summary>
     <h3 style="display: inline;">React.js</h3>
   </summary>
-  
   - [Minimal Portfolio](https://github.com/ubednama/Minimal-Portfolio) 🌟
   - [Refokus-Clone](https://github.com/ubednama/Refokus-Clone) [🔗](https://refokus-clone-chi.vercel.app/) 🌟
   - [Netflix Clone](https://github.com/ubednama/Netflix-clone) 🌟
