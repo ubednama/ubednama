@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/express/ffffff" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
