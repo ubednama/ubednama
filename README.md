@@ -130,9 +130,7 @@
   </summary>
   
   - [Expense Tracker Service](https://github.com/ubednama/Expense-Tracker-Service) 🌟 ⌛
-  - [Book Record Management System](https://github.com/ubednama/Book-Record-Management-System)
   - [Hospital Management System](https://github.com/ubednama/Hospital-Management-System)
-  - [Unit Converter](https://github.com/ubednama/Unit-Converter)
   - [Snake & Ladder](https://github.com/ubednama/Snake-Ladder)
 
 </details>
