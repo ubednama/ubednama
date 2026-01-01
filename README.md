@@ -153,7 +153,7 @@
   - [Maa Foundation Project](https://github.com/ubednama/maa-foundation-project) [🔗](https://maa-foundation.vercel.app/)🌟
   - [Text Utils](https://github.com/ubednama/react-monorepo/tree/main/apps/text-utils) [🔗](https://text-utils-two-kohl.vercel.app)🌟
   - [Matrix Tasks](https://github.com/ubednama/react-monorepo/tree/main/apps/matrix-tasks) [🔗](https://matrix-tasks.vercel.app/)🌟
-  - [To Do](https://github.com/ubednama/react-monorepo/tree/main/apps/todo-app) [🔗](https://to-do-psi-six.vercel.app/)
+  - [To Do](https://github.com/ubednama/react-monorepo/tree/main/apps/todo-app) [🔗](http://todo-app-mu-rouge.vercel.app/)
   - [React Components](https://github.com/ubednama/React-Components)
 
 </details>
