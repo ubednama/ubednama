@@ -24,14 +24,14 @@
 <!-- <a href="https://www.hackerearth.com/@ubed">
   <img align="left" alt="Ubed's HackerEarth" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/480px-HackerEarth_logo.png" />  -->
 
-<!-- <p> &nbsp;</p> -->
+<p> &nbsp;</p>
 
-<!-- <h3><a href='https://ubednama.netlify.app/'>📂 Portfolio </h3> -->
+<h3><a href='https://ubednama.netlify.app/'>📂 Portfolio </h3>
 
 
 <!--  ### <h3> <a href='https://ubednama.github.io/resume/resume.pdf'>📄 Resume</a> </h3> -->
 
-<!-- <p> &nbsp;</p> -->
+<p> &nbsp;</p>
 
 ###
 
